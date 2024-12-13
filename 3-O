@@ -1,0 +1,3 @@
+O(n log n) # Meilleur cas
+O(n log n) # Cas moyen
+O(n^2)     # Pire cas

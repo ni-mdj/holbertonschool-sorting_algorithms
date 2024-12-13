@@ -1,0 +1,3 @@
+O(n)   # Meilleur cas
+O(n^2) # Cas moyen
+O(n^2) # Pire cas
